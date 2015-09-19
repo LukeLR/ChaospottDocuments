@@ -5,17 +5,17 @@
 	\textsc{\huge Newbie Howto}\\[0.5cm]
 	Hallo!
 	\newline
-	Um dich besser im Chaos einzufinden sollen dir folgende Informationen helfen:
+	Um dich besser im Chaos einzufinden, sollen dir folgende Informationen helfen:
 	\begin{enumerate}
-	\item Zualler erst:
+	\item Zuallererst:
 		\begin{itemize}
 		  \item Hackerethik lesen! \url{http://www.ccc.de/de/hackerethik}
 		\end{itemize}
-	\item Die meisten Info bekommst du in der Wiki: 
+	\item Die meisten Infos bekommst du in der Wiki: 
 		\begin{itemize}
 		  \item \url{https://wiki.chaospott.de}
 		\end{itemize}
-	\item Melde dich auf der Mailingliste an! Dort gibt es wichtige Meldungen und du kannst jederzeit dort fragen wenn du Hilfe brauchst. Ein Blick auf die Netiquette ist dabei auch nicht verkehrt :). Infos dazu gibt es hier:
+	\item Melde dich auf der Mailingliste an! Dort gibt es wichtige Meldungen, und du kannst jederzeit dort fragen, wenn du Hilfe brauchst. Ein Blick auf die Netiquette ist dabei auch nicht verkehrt :). Infos dazu gibt es hier:
 		\begin{itemize}
 		  \item \url{https://wiki.chaospott.de/Mailingliste}
 		\end{itemize}
@@ -29,7 +29,7 @@
 		\begin{itemize}
 		  \item \url{http://pads.chaospott.de}
 		\end{itemize}
-	\item Wenn dir die Musik nicht gefällt kannst du die Musik wie folgt Steuern:
+	\item Wenn dir die Musik nicht gefällt, kannst du die Musik wie folgt Steuern:
 		\begin{itemize}
 		  \item Auf der Adresse mpd.chaospott.de läuft ein mpd.
 		  \item Clients dafür sind für alle bekannten Betriebssysteme vorhanden.
@@ -40,7 +40,7 @@
 		\begin{itemize}
 		  \item \url{https://wiki.chaospott.de/3D-Drucker}
 		\end{itemize}
-	\item storage.chaospott.de ist ein gemeinsamer storage für \$DINGE. Zugriff darauf bekommst du indem du eine signierte E-Mail an noc@chaospott.de mit deinem Pubkey anfragst. Danach werden dir Zugangsdaten zugesendet, mit denen du dich via ssh oder smb einloggen kannst. 
+	\item storage.chaospott.de ist ein gemeinsamer storage für \$DINGE. Zugriff darauf bekommst du, indem du eine signierte E-Mail an noc@chaospott.de mit deinem Pubkey anfragst. Danach werden dir Zugangsdaten zugesendet, mit denen du dich via ssh oder smb einloggen kannst. 
 		\begin{itemize}
 		  \item smb://storage.chaospott.de (Linux:thunar, nautilus, nemo)
 		  \item \textbackslash\textbackslash storage.chaospott.de (Windows)
